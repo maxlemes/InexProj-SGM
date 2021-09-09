@@ -2,7 +2,7 @@
 
 This directory contains the Spectral Gradient Method with inexact projections described in:
 
-O. P. Ferreira, M. V. Lemes, and L. F. Prudente. On the inexact scaled gradient projection method, technical report, 2021.
+O. P. Ferreira, M. Lemes, and L. F. Prudente. On the inexact scaled gradient projection method, technical report, 2021.
 
 - File `SGMSDD.m` contains the function to solve 
 
